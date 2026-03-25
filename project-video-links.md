@@ -48,7 +48,7 @@ AWS | EC2 | EBS | on Linux Server | Part 04
 
 *YouTube Video Links (All Videos)*
 
-        htt
+        https://www.youtube.com/playlist?list=PL9SCFf2XVh6jKs-Yi5mcPyvlWjxkGM02u
 
 AWS | EC2 | EFS | on Windows Server | Linux Server | Part 01
 
